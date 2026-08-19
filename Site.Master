@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="_1256706040_Emir_Mert_Organ.Site" %>
+<!DOCTYPE html>
+<html lang="tr">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chic Takı & Aksesuar</title>
+    <link href="css/StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <div class="header-container">
+                <div class="logo">Chic Takı</div>
+                <div class="header-slogan">Zarafetin Dijital Adresi</div>
+            </div>
+        </header>
+
+        <nav class="sticky-nav">
+            <ul>
+                <li><a href="Anasayfa.aspx">Anasayfa</a></li>
+                <li><a href="Urunler.aspx">Ürünler</a></li>
+                <li><a href="Sepet.aspx">Sepetim</a></li>
+                <li><a href="Iletisim.aspx">İletişim</a></li>
+            </ul>
+        </nav>
+
+        <main>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 Chic Takı - Tüm Hakları Saklıdır. | Web Programlama Proje Ödevi</p>
+        </footer>
+    </form>
+
+    <script src="js/JavaScript.js"></script>
+</body>
+</html>
