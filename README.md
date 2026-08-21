@@ -1,4 +1,4 @@
-# Chic Taki Jewelry Store
+# Chic Taki Jewelry Stores
 
 A jewelry store website developed using ASP.NET Web Forms, C#, HTML, CSS and JavaScript.
 
