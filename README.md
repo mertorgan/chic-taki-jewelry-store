@@ -12,15 +12,17 @@ This project was developed for a fictional jewelry brand called "Chic Taki". The
 
 screenshots/ana-sayfa.png
 
-### Registration Page
+### Products Page
 
-screenshots/kayit-ol.png
+screenshots/urunler.png
 
-### Product Details Page
+### Product Detail Page
 
 screenshots/urun-detay.png
 
-## Technologies
+### Shopping Cart Page
+
+![Shopping Cart Page](screenshotsogies
 
 - ASP.NET Web Forms
 - C#
