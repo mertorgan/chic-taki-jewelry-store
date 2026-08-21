@@ -10,19 +10,19 @@ This project was developed for a fictional jewelry brand called "Chic Taki". The
 
 ### Home Page
 
-screenshots/ana-sayfa.png
+![Home Page](screenshots/ana-sayfa.png)
 
 ### Products Page
 
-screenshots/urunler.png
+![Products Page](screenshots/urunler.png)
 
 ### Product Detail Page
 
-screenshots/urun-detay.png
+![Product Detail Page](screenshots/urun-detay.png)
 
 ### Shopping Cart Page
 
-screenshots/sepet.png
+![Shopping Cart Page](screenshots/sepet.png)
 
 ## Technologies
 
