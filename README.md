@@ -6,6 +6,20 @@ A jewelry store website developed using ASP.NET Web Forms, C#, HTML, CSS and Jav
 
 This project was developed for a fictional jewelry brand called "Chic Taki". The goal was to create a modern e-commerce website while applying semantic HTML structure, CSS Grid and Flexbox layouts, and JavaScript-based user interactions.
 
+## Screenshots
+
+### Home Page
+
+screenshots/ana-sayfa.png
+
+### Registration Page
+
+screenshots/kayit-ol.png
+
+### Product Details Page
+
+screenshots/urun-detay.png
+
 ## Technologies
 
 - ASP.NET Web Forms
@@ -28,5 +42,5 @@ This project was developed for a fictional jewelry brand called "Chic Taki". The
 
 ## Developer
 
-Emir Mert Organ
+Emir Mert Organ  
 Computer Programming Student
