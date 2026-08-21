@@ -22,7 +22,9 @@ screenshots/urun-detay.png
 
 ### Shopping Cart Page
 
-![Shopping Cart Page](screenshotsogies
+screenshots/sepet.png
+
+## Technologies
 
 - ASP.NET Web Forms
 - C#
